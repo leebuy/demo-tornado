@@ -1,0 +1,1 @@
+supervisorctl -c supervisord_deploy.conf status

@@ -1,0 +1,15 @@
+Pillow
+PyMySQL
+SQLAlchemy
+argparse
+backports-abc
+backports.ssl-match-hostname
+certifi
+futures
+olefile
+pbkdf2
+pycket
+singledispatch
+redis
+six
+tornado
